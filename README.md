@@ -21,6 +21,22 @@ The Fuse lending pool is now live on
 This pool gives Badger native asset holders another location to put their assets to work as they can now lend and borrow against their $BADGER and $DIGG Holdings.
 Deposit now Rightwards arrow https://app.rari.capital/fuse/pool/22
 The Fuse lending pool is now live on @RariCapital. This pool gives Badger native asset holders another location to put their assets to work as they can now lend and borrow against their $BADGER and $DIGG Holdings.
+# Great NFT Event 
+We are now working on developing these as NFT’s, to create a collectible focused on community participation. We are all Badgers. We are looking for people with experience to help design the generation models. We have finalized the 5 badger base types:
+# NFTS 
+Nevadensis base + snapback = 1 attribute 
+![image](https://user-images.githubusercontent.com/84318174/135065441-42b6c67b-f14e-4667-9ae1-69a3a8093aa7.png)
+
+European Badger base + blunt + hair + glasses = 3 attributes
+![image](https://user-images.githubusercontent.com/84318174/135065750-521778a3-e518-45b7-9487-79a96b68704e.png)
+
+European Badger base + blunt + afro + sideburns+ gold chain + red inner eye= 5 attributes
+![image](https://user-images.githubusercontent.com/84318174/135066033-b8b9c5d3-dfa0-4e7c-8ed1-804c9bce2917.png)
+
+
+
+
+
 
 
 
