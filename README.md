@@ -49,6 +49,14 @@ Thank you:)
 
 ![image](https://user-images.githubusercontent.com/84318174/135068885-769a09b3-5310-4d8f-9a6d-57ad1de97e30.png)
 
+Twitter 👉
+https://mobile.twitter.com/BadgerDAO 
+Start Here 👉 http://badger.com
+
+Earn Here 👉 http://app.badger.com
+
+Join the Community 👉 http://discord.com/invite/xSPFHHS
+
 
 
 
