@@ -16,3 +16,22 @@ You can supply assets to markets that let users swap between tokens. In exchange
 https://badger.com/new-to-defi 
 
 In the above link you can get all the information you want to know about how and what to do.
+# Upcoming events
+The Fuse lending pool is now live on 
+This pool gives Badger native asset holders another location to put their assets to work as they can now lend and borrow against their $BADGER and $DIGG Holdings.
+Deposit now Rightwards arrow https://app.rari.capital/fuse/pool/22
+The Fuse lending pool is now live on @RariCapital. This pool gives Badger native asset holders another location to put their assets to work as they can now lend and borrow against their $BADGER and $DIGG Holdings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
